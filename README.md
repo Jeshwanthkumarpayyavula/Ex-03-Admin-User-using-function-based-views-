@@ -115,7 +115,8 @@ INSTALLED_APPS = [
 
 ## OUTPUT: 
 ![image](https://github.com/Jeshwanthkumarpayyavula/Ex-03-Admin-User-using-function-based-views-/assets/145742402/10984323-55f2-4d90-966c-ec67c8583fa6)
-![Screenshot 2023-11-23 010444](https://github.com/Jeshwanthkumarpayyavula/Ex-03-Admin-User-using-function-based-views-/assets/145742402/f75d9ae2-e92e-43aa-ad27-8b6aab1dfa64)
+![Screenshot 2023-11-23 005606](https://github.com/Jeshwanthkumarpayyavula/Ex-03-Admin-User-using-function-based-views-/assets/145742402/1b85826b-bb0e-457c-af18-167d8af3e04e)
+
 
 
 
